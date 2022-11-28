@@ -1,0 +1,33 @@
+body {
+    background-image: url(fondo.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: white;
+}
+
+label {
+    font-size: 200%;
+}
+
+.a1 {
+    float: left;
+    float: top;
+    scale: 60%;
+}
+
+.a2 {
+    float: right;
+    float: top;
+    scale: 60%;
+}
+
+canvas {
+    border-radius: 5%;
+    scale: 75%  ;
+}
+
+button {
+    background-color: #383A89;
+    scale: 90%;
+    border-radius: 20%;
+}
